@@ -1,0 +1,21 @@
+body {
+	font-family: helvetica;
+  text-align: center;
+	background-color: pink;
+}
+
+#cabezaSerpiente {
+  width: 50px;
+  height: 50px;
+  background-color: #5A0000;
+  border: solid 3px #FFEC33;
+  background:yellow;
+  position: absolute;
+}
+
+#contenedor {
+  width: 500px;
+  height: 500px;
+  border: solid 3px black;
+  margin: auto auto;
+}
