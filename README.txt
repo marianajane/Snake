@@ -1,4 +1,4 @@
-##Snake
+# Snake
 
 tabla 5x5
 - section
@@ -6,7 +6,7 @@ tabla 5x5
 - tabla
 - etiqueta svg (optional)
 
-qué elemento es la serpiente?
+quÃ© elemento es la serpiente?
 - div contenedor y div hijo
 // - cambio de color de celdas en la tabla
 
